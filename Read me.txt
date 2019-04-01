@@ -1,4 +1,9 @@
-1. MyBooth_D_JK_Counter
+1. ALU Implementation
+This circuit can operates some ALU operations. 
+Menual is in 'ALU Implementation Question.jpg'
+
+2. MyBooth_D_JK_Counter
 This is booth implementation user JK flip flop for shifting and SR flip flop for counter
 
-
+3. Counter_Online.pdsprj
+This Detects a 4 bit binary number
